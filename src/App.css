@@ -1,0 +1,30 @@
+.container{
+    max-width: 50rem;
+}
+.links{
+    display: block;
+}
+.jumbotron{
+    width: 50%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+}
+.link-nav{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+}
+.btn-lg{
+    margin-top: 1rem;
+    width: 48%;
+}
+.btn-wrapper{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
