@@ -1,4 +1,4 @@
 export const config = {
-    host : "20.62.53.148",
+    host : "localhost",
     port : "8080"
 };
